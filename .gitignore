@@ -7,4 +7,6 @@
 *.pm.tdy
 *.bs
 
+.DS_Store
+
 *.sh
