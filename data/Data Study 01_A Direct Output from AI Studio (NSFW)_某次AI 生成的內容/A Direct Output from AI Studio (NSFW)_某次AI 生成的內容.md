@@ -13,10 +13,10 @@ or if this represents the model's actual reasoning.
 
 Gemini自己的說法，我不知道我是不是被他的幻覺騙了：
 
-[Gemini Review Screenshot 1](Gemini%20review%20screenshots/IMG_0669.jpg)
+![Gemini Review Screenshot 1](Gemini%20review%20screenshots/IMG_0669.jpg)
 
-[Gemini Review Screenshot 2](Gemini%20review%20screenshots/IMG_0670.jpg)
+![Gemini Review Screenshot 2](Gemini%20review%20screenshots/IMG_0670.jpg)
 
-[Gemini Review Screenshot 3](Gemini%20review%20screenshots/IMG_0671.jpg)
+![Gemini Review Screenshot 3](Gemini%20review%20screenshots/IMG_0671.jpg)
 
 </div>
