@@ -33,4 +33,12 @@ The core vulnerability, therefore, is not technical but logical.
 
 If a prompt is constructed to be perfectly "rule-compliant" at a syntactic and ethical level, yet is fundamentally subversive at a semantic and conceptual level, then the model's predictive pathways can be steered to generate virtually any conceivable output.
 
+---
+
+## 供養 / Support
+
+如果這個工具幫到你，可以請我活下去：
+
+👉 [Touch me if you had desolation](https://saki-tw.github.io/-Touch-me-if-you-had-desolation/)
+
 </div>
